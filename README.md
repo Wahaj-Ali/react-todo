@@ -24,9 +24,6 @@
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
-      - [🔭 Future Features ](#-future-features-)
-  - [🚀 Live Demo ](#-live-demo-)
-  - [🚀 Video Project Presentation ](#-video-project-presentation-)
   - [💻 Getting Started ](#-getting-started-)
     - [Setup](#setup)
     - [Install](#install)
@@ -81,32 +78,12 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **React App**
-
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-#### 🔭 Future Features <a name="future-features"></a>
-
-- [] ****
-- [ ] ****
-
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- <a href="#" target="_blank">Live Demo Link</a>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 🚀 Video Project Presentation <a name="live-demo"></a>
-
-- <a href="#" target="_blank">-Video Project Presentation Link</a>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
+- **Todos List**
+- **local storage**
+- **React Hooks**
+- **React states**
+- **React functional/class-based components**
+- **Controlled components**
 
 
 <!-- GETTING STARTED -->
@@ -120,8 +97,8 @@ To get a local copy up and running, follow these steps.
 Clone this repository to your desired folder:
 
 ```sh
-  git clone https://github.com/Wahaj-Ali/maths-magicians.git
-  cd maths-magiacians
+  https://github.com/Wahaj-Ali/react-todo.git
+  cd react-todo
 ```
 
 ### Install
@@ -187,7 +164,7 @@ You can deploy this project using [Github Pages](https://docs.github.com/en/page
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Wahaj-Ali/maths-magicians/issues).
+Feel free to check the [issues page](https://github.com/Wahaj-Ali/react-todo/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -204,7 +181,7 @@ A satr to this repo would be appreciated.
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 
-Thanks to our friend [Lucas](https://github.com/Lucash2022) for a his help to set up the react-app correctly.
+Thanks to our friend [ELOUARDY](https://github.com/codehass) for a his help.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -229,6 +206,6 @@ Thanks to our friend [Lucas](https://github.com/Lucash2022) for a his help to se
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/Wahaj-Ali/maths-magicians/blob/dev/LICENSE) licensed.
+This project is [MIT](https://github.com/Wahaj-Ali/react-todo/blob/dev/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
