@@ -24,7 +24,6 @@
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
-      - [🔭 Future Features ](#-future-features-)
   - [🚀 Live Demo ](#-live-demo-)
   - [🚀 Video Project Presentation ](#-video-project-presentation-)
   - [💻 Getting Started ](#-getting-started-)
@@ -87,23 +86,6 @@
 - **React states**
 - **React functional/class-based components**
 - **Controlled components**
-
-
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- <a href="#" target="_blank">Live Demo Link</a>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 🚀 Video Project Presentation <a name="live-demo"></a>
-
-- <a href="#" target="_blank">-Video Project Presentation Link</a>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 
 <!-- GETTING STARTED -->
